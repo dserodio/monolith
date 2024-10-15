@@ -208,7 +208,7 @@ cat some-site-page.html | monolith -aIiFfcMv -b https://some.site/ - > some-site
 ---------------------------------------------------
 
 
-## Whitelisting and blacklisting domains
+## Allowlisting and denylisting domains
 
 Options `-d` and `-B` provide control over what domains can be used to retrieve assets from, e.g.:
 
